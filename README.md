@@ -1,6 +1,6 @@
 # Rania Jarral - Portfolio Website
 
-A clean, modern portfolio website showcasing my development skills and services.
+A clean, modern portfolio website showcasing my development skills and some of services.
 
 ## 📁 Project Structure
 
