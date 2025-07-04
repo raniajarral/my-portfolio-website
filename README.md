@@ -10,10 +10,8 @@ A clean, modern portfolio website showcasing my development skills and services.
 ├── script.js           # JavaScript functionality
 ├── picture/            # Project images and profile photos
 ├── public/
-│   ├── favicon.ico     # Website favicon
-│   └── robots.txt      # SEO robots file
-├── README.md           # This file
-└── .gitignore         # Git ignore rules
+│   └── favicon.ico     # Website favicon
+└── README.md           # This file 
 ```
 
 ## Features
