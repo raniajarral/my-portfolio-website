@@ -31,6 +31,7 @@ A clean, modern portfolio website showcasing my development skills and services.
 5. **Contact** - Contact form and information
 
 ## How to Use
+### After cloning the repo you can...
 
 ### Option 1: Open Locally
 Simply double-click `index.html` to open it in your web browser.
