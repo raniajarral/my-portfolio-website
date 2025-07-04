@@ -59,15 +59,10 @@ The website is built with separate HTML, CSS, and JavaScript files for easy cust
 5. **Images**: Replace images in the `picture/` folder
 6. **Contact Info**: Update email and GitHub links in the contact section
 
-## 📧 Contact Information
+## Contact Information
 
 - **Email**: raniajarral9@gmail.com
-- **GitHub**: [@raniajarral](https://github.com/raniajarral)
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Built with ❤️ by Rania Jarral
+Built with ❤️ by Rania
