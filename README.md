@@ -11,7 +11,6 @@ A clean, modern portfolio website showcasing my development skills and services.
 ├── picture/            # Project images and profile photos
 ├── public/
 │   ├── favicon.ico     # Website favicon
-│   └── robots.txt      # SEO robots file
 ├── README.md           # This file
 └── .gitignore         # Git ignore rules
 ```
@@ -72,4 +71,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Built with ❤️ by Rania Jarral
+Built with ❤️ by Rania
